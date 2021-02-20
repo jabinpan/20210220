@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 第一次提交
 main
+=======
+branch develop里面的文件
+ahhiacads
+>>>>>>> Stashed changes
